@@ -47,7 +47,7 @@ function App() {
         </div>
         <header className="header">
           <div className="header-brand">
-            <div className="header-title">Morton Potters Basketball</div>
+            <div className="header-title">Morton Lady Potters Basketball</div>
           </div>
           {!isLoginPage && (
             <nav className="nav">

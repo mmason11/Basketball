@@ -224,7 +224,7 @@ function Home() {
 
   const loading = eventsLoading || gameDetailsLoading || announcementsLoading || gamesLoading
 
-  const teamName = 'Morton Potters Girls Basketball'
+  const teamName = 'Morton Lady Potters Basketball'
 
   const recentAnnouncements = announcements
 
